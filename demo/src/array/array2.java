@@ -6,7 +6,7 @@ public class array2 {
 			int x[][] = new int[3][3];
 			Scanner sc = new Scanner(System.in);
 			
-			System.out.println("Enter 9 values ");
+			System.out.println("Enter 9 values...");
 			for(int i=0;i<3;i++)
 			{
 				for(int j=0;j<3;j++)
